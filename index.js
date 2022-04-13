@@ -1,4 +1,4 @@
-var THREE = require( 'three' );
+
 /**
  * @author fernandojsg / http://fernandojsg.com
  * @author Don McCurdy / https://www.donmccurdy.com

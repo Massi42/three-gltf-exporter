@@ -1947,4 +1947,4 @@ var _GLTFExporter = (function(){
 	};
 	return GLTFExporter;
 })();
-module.exports = _GLTFExporter;
+THREE.GLTFExporter = _GLTFExporter;
